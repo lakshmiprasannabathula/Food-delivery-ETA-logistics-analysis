@@ -7,13 +7,13 @@ An end-to-end data analytics project on **50,000 food delivery orders** from the
 
 ## Dashboard Screenshots
 
-![Executive Overview](images/Executive_Overview.png)
-![Customer Analytics](images/customer_Analytics.png)
-![Restaurant Analytics](images/Restaurant_Analytics.png)
-![Driver Analytics](images/Driver_Analytics.png)
-![Logistics and ETA](images/Logistics&ETA.png)
-![Financial Analysis](images/Financial_Analysis.png)
-![Delay and Risk Analysis](images/Delay&risk_analysis.png)
+![Executive Overview](Images/Executive_Overview.png)
+![Customer Analytics](Images/customer_Analytics.png)
+![Restaurant Analytics](Images/Restaurant_Analytics.png)
+![Driver Analytics](Images/Driver_Analytics.png)
+![Logistics and ETA](Images/Logistics&ETA.png)
+![Financial Analysis](Images/Financial_Analysis.png)
+![Delay and Risk Analysis](Images/Delay&risk_analysis.png)
 
 ---
 
